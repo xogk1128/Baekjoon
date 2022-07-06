@@ -16,6 +16,6 @@ int main() {
 		for (int k = 0; k < N; k++)
 			if (score[k] > aver)cnt++;
 		sum = (float)cnt / N * 100;
-		printf("%.3f\n", sum);
+		printf("%.3f%%\n", sum);
 	}
 }
