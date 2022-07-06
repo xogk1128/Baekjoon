@@ -1,17 +1,11 @@
 #include <stdio.h>
-
 int main() {
-	int i, max, min, num;
-	int a[10001];
-	scanf("%d", &num);
-	for (i = 0; i < num; i++) {
-		scanf("%d", &a[i]);
+	int N, a, max=-1000000, min=1000000;
+	scanf("%d", &N);
+	for (int i = 0; i < N; i++) {
+		scanf("%d", &a);
+		if (max < a)max = a;
+		if (min > a)min = a;
 	}
-	max = a[0];
-	min = a[0];
-	for (i = 1; i < num; i++) {
-		if (max < a[i])max = a[i];
-		if (min > a[i])min = a[i];
-	}
-	printf("%d %d", max, min);
+	printf("%d %d", min, max);
 }
