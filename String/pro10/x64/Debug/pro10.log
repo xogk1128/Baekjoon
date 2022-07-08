@@ -1,0 +1,6 @@
+﻿  소스.c
+C:\Users\User\Desktop\태하\백준\String\pro10\소스.c(9,31): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\User\Desktop\태하\백준\String\pro10\소스.c(10,22): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\User\Desktop\태하\백준\String\pro10\소스.c(5,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\태하\백준\String\pro10\소스.c(8,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro10.vcxproj -> C:\Users\User\Desktop\태하\백준\String\x64\Debug\pro10.exe
