@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\User\Desktop\태하\백준\String\pro6\소스.c(6,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\태하\백준\String\pro6\소스.c(7,8): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\User\Desktop\태하\백준\String\pro6\소스.c(10,9): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  pro6.vcxproj -> C:\Users\User\Desktop\태하\백준\String\x64\Debug\pro6.exe
